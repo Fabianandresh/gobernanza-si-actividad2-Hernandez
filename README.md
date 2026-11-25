@@ -6,7 +6,7 @@
 
 ## Entregables
 
-- [Documento PDF](Actividad2_Apellido_Nombre.pdf)
+- [Documento PDF](Actividad2_Hernandez_Fabian.pdf)
 - [Presentación PowerPoint](Actividad2_Gobernanza_Cafe_Andino.pptx)
 - Video de YouTube: pendiente de publicación
 
