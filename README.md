@@ -1,6 +1,6 @@
 # Actividad 2 Gobernanza en Seguridad de la Información
 
-**Estudiante:** [Apellido, Nombre]  
+**Estudiante:** Fabian Hernandez  
 **Curso:** Gobernanza en Seguridad de la Información  
 **Actividad:** Bandeja de entrada del nuevo CISO de Café Andino S.A.S.
 
